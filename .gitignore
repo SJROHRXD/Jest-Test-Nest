@@ -1,0 +1,5 @@
+# add node modules to gitignore
+node_modules
+
+# add npm-debug.log to gitignore
+npm-debug.log

@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "latest-version": "^7.0.0"
+  },
+  "name": "jesttest",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "jesting and testing",
+  "main": "script.js",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "SJROHRXD",
+  "license": "ISC"
+}
